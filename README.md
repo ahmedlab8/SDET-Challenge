@@ -11,6 +11,9 @@ Before you start, make sure you have the following installed:
 - [Node.js](https://nodejs.org/) (version 12 or higher)
 - [npm](https://www.npmjs.com/) (comes with Node.js)
 - [Git](https://git-scm.com/)
+- [Cypress Documentation](https://docs.cypress.io/)
+- [Node.js Download](https://nodejs.org/en/download/)
+- [Git Download](https://git-scm.com/downloads)
 
 ## Setup Steps
 
@@ -72,12 +75,4 @@ Before you start, make sure you have the following installed:
 
    Next, choose the "E2E Testing" option and select your preferred browser to execute the test. In the Specs window, click on the available test to run it (fingers crossed it works as expected!).
 
-   This will run the test and show the results in the terminal.
-
-## Project Layout
-
 **Thanks for checking my code. Ahmed E**
-
-- [Cypress Documentation](https://docs.cypress.io/)
-- [Node.js Download](https://nodejs.org/en/download/)
-- [Git Download](https://git-scm.com/downloads)
