@@ -1,9 +1,9 @@
-
 # SDET-Challenge Using Cypress
 
 ## Introduction
 
-Welcome! This repository contains automated tests for our project using Cypress.
+**This repository contains an offline coding challenge for an SDET role at Fetch.**
+
 ## What You Need
 
 Before you start, make sure you have the following installed:
@@ -66,26 +66,18 @@ Before you start, make sure you have the following installed:
    npx cypress run
    ```
 
-   This will run all the tests and show the results in the terminal.
+   Once the command runs successfully, you will see the Cypress Welcome Screen:
+
+   - **Welcome to Cypress!**
+
+   Next, choose the "E2E Testing" option and select your preferred browser to execute the test. In the Specs window, click on the available test to run it (fingers crossed it works as expected!).
+
+   This will run the test and show the results in the terminal.
 
 ## Project Layout
 
-Here’s a quick overview of the project's structure:
-
-- `cypress/`
-  - `fixtures/`: Contains test data
-  - `integration/`: Contains test files
-  - `plugins/`: Contains plugins and configuration files
-  - `support/`: Contains helper files and custom commands
-  - `videos/`: Contains videos of test runs (if enabled)
-  - `screenshots/`: Contains screenshots from tests (if enabled)
-- `.gitignore`: Lists files and folders Git should ignore
-- `cypress.json`: Cypress configuration file
-- `package.json`: Lists dependencies and scripts
-
-## Resources
+**Thanks for checking my code. Ahmed E**
 
 - [Cypress Documentation](https://docs.cypress.io/)
 - [Node.js Download](https://nodejs.org/en/download/)
 - [Git Download](https://git-scm.com/downloads)
-
