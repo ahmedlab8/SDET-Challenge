@@ -1,0 +1,12 @@
+
+node_modules/
+cypress/videos/
+cypress/screenshots/
+cypress/downloads/
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+npm-debug.log*
+package-lock.json
+yarn.lock
