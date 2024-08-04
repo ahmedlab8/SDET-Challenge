@@ -32,7 +32,7 @@ export function findFakeBar() {
         } else {
           fakeBar = fakeGroup[2];
         }
-
+        cy.log(`The fake bar is: ${fakeBar}`);
         goldBarPage.checkFakeBar(fakeBar);
 
         goldBarPage.logWeighingInfo();
